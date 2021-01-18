@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cadastro-restfull", "cadastro-restfull\cadastro-restfull.csproj", "{BF401797-1449-4110-915C-66E4180815CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cadastro.front.mvc", "cadastro.front.mvc\cadastro.front.mvc.csproj", "{7AF636A8-8611-4A8A-9D8B-D7D2BED14F3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF401797-1449-4110-915C-66E4180815CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF401797-1449-4110-915C-66E4180815CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF401797-1449-4110-915C-66E4180815CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF401797-1449-4110-915C-66E4180815CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AF636A8-8611-4A8A-9D8B-D7D2BED14F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF636A8-8611-4A8A-9D8B-D7D2BED14F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF636A8-8611-4A8A-9D8B-D7D2BED14F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF636A8-8611-4A8A-9D8B-D7D2BED14F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0E8C0C0-BB74-4567-93C3-E4631C518E9F}
+	EndGlobalSection
+EndGlobal
